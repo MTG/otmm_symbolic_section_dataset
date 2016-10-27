@@ -1,5 +1,5 @@
-makam_section_test_dataset
-==========================
+otmm_symbolic_section_dataset
+=============================
 The section test dataset of music scores of Ottoman-Turkish makam music
 
 This repository contains the audio section annotations and the scores used in the paper:
