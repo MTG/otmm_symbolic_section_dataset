@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/73401701.svg)](https://zenodo.org/badge/latestdoi/73401701)
+
 otmm_symbolic_section_dataset
 =============================
 The section test dataset of music scores of Ottoman-Turkish makam music
