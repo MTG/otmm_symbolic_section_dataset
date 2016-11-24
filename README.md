@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/73401701.svg)](https://zenodo.org/badge/latestdoi/73401701)
+[![DOI](https://zenodo.org/badge/73401701.svg)](https://zenodo.org/badge/latestdoi/73401701) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ff69b4.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 otmm_symbolic_section_dataset
 =============================
